@@ -1,0 +1,24 @@
+{
+  // Main TypeScript configuration file
+  // References separate configurations for app and Node.js environments
+  "files": [],
+  "references": [
+    { "path": "./tsconfig.app.json" },
+    { "path": "./tsconfig.node.json" }
+  ],
+  "compilerOptions": {
+    // Base URL for module resolution
+    "baseUrl": ".",
+    // Path aliases for cleaner imports
+    "paths": {
+      "@/*": ["./src/*"]
+    },
+    // Type checking rules (relaxed for development)
+    "noImplicitAny": false,
+    "noUnusedParameters": false,
+    "skipLibCheck": true,
+    "allowJs": true,
+    "noUnusedLocals": false,
+    "strictNullChecks": false
+  }
+}
