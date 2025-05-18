@@ -15,6 +15,7 @@ Interactive data visualisation and analysis
 Responsive design for all screen sizes
 Robust error handling and input validation
 Easy-to-use navigation and intuitive layout
+![bot1](https://github.com/user-attachments/assets/66b338f7-7055-47bb-8c6e-f35c7b5aa77c)
 
 Technologies Used
 
