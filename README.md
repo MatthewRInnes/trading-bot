@@ -1,67 +1,29 @@
-<style>
-h1, h2, h3, h4, h5, h6 {
-    color: #000000 !important;
-}
-</style>
+Trading Bot
 
-<h1 style="color: #000000 !important">Matthew's Clothing Store</h1>
+This project is a trading bot platform designed to analyse historical price data, calculate technical indicators, and generate trading signals. The bot provides features such as RSI analysis, moving averages, and a live market overview. It is developed using React and TypeScript, ensuring a modern and maintainable codebase.
 
-<h2 style="color: #000000 !important">Project Overview</h2>
+Project Overview
 
-This project is a modern e-commerce website for Matthew's Clothing Store, built with contemporary web technologies to provide an exceptional shopping experience.
+The trading bot platform allows users to view and analyse market data, visualise trends, and receive automatic trading signals based on technical analysis. The application is optimised for performance and usability, providing a clear and user-friendly interface for both beginners and experienced traders.
 
-<h2 style="color: #000000 !important">Development Guide</h2>
+Key Features
 
-You can edit this project using your preferred code editor or IDE.
+Support for multiple technical indicators including RSI and moving averages
+Processing of live market data
+Automatic generation of trading signals
+Interactive data visualisation and analysis
+Responsive design for all screen sizes
+Robust error handling and input validation
+Easy-to-use navigation and intuitive layout
 
-The only requirement is having Node.js and npm installed – [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+Technologies Used
 
-Follow these steps:
+React
+TypeScript
+Chart.js
+Tailwind CSS
 
-```sh
-# Step 1: Clone the repository
-git clone https://github.com/your-username/matthews-clothing-store.git
+Contact
 
-# Step 2: Navigate to the project directory
-cd matthews-clothing-store
-
-# Step 3: Install the necessary dependencies
-npm install
-
-# Step 4: Start the development server
-npm run dev
-```
-
-You can also edit files directly in GitHub or use GitHub Codespaces for a cloud-based development environment.
-
-<h2 style="color: #000000 !important">Technologies Used</h2>
-
-This project is built with:
-
-- Vite - For fast development and building
-- TypeScript - For type-safe code
-- React - For building the user interface
-- shadcn-ui - For beautiful, accessible components
-- Tailwind CSS - For styling and responsive design
-
-<h2 style="color: #000000 !important">Deployment</h2>
-
-You can deploy this project using any static hosting provider that supports Vite builds, such as:
-
-- Vercel
-- Netlify
-- GitHub Pages
-
-<h2 style="color: #000000 !important">Custom Domain Setup</h2>
-
-Yes, you can connect a custom domain to your project. Please refer to your chosen hosting provider's documentation for specific instructions on:
-
-- Domain configuration
-- SSL certificate setup
-- DNS record management
-
-<h2 style="color: #000000 !important">Support</h2>
-
-For any questions or issues, please contact:
-- Email: matthewinnes42@gmail.com
-- Phone: 07879959625
+ Email: matthewinnes42@gmail.com
+ Phone: 07879959625
